@@ -1,4 +1,6 @@
-## Local AI Voice Helper
+## Local AI Agent
+
+Website URL: https://deepsync.streamlit.app/
 
 This project is a **local, privacy-friendly AI helper** that lets you control your machine using **natural language**, through both **text and voice**.
 
