@@ -384,7 +384,7 @@ python gui_app.py
         
         st.markdown("---")
         st.markdown("**Email:** aaabhishek841424@gmail.com")
-        st.markdown("**Support:** https://infoofabhi.netlify.app/contact")
+        st.markdown("**Support:** https://infoofabhi.netlify.app/")
 
     # FAQ page
     elif page == "FAQ":
