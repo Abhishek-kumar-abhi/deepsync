@@ -669,7 +669,7 @@ python gui_app.py
     st.markdown("---")
     st.markdown("""
     <div class="footer">
-    © 2025 BATCH SEVEN AI & DATA SCIENCE<br>
+    © 2026 BATCH SEVEN AI & DATA SCIENCE<br>
     Enterprise AI Solutions
     </div>
     """, unsafe_allow_html=True)
